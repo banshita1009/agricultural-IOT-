@@ -3,4 +3,4 @@
 2. Use Arduino IDE
 3. Used Servo and DHT sensor libraries
 4. sensors and acutuators
-5. used b=robotic car as an substitue with drone
+5. used robotic car as an substitue with drone
